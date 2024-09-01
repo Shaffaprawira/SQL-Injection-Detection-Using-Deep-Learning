@@ -6,8 +6,8 @@ This repository contains the implementation of a text classification model using
 
 ## Key Features
 
-Deep Learning Models: Utilizes BERT Language Models for text classification.
-High Accuracy: Achieves 99.84% with BERT in detecting SQL Injection.
-Detection Method: Identifies SQL Injection attempts from web server logs.
-Flexible Implementation: Compatible with Apache Web Server and tested with Damn Vulnerable Web Application (DVWA).
-Public Dataset: Trained using a public dataset from Kaggle, containing a mix of normal and SQL Injection web requests.
+1. Deep Learning Models: Utilizes BERT Language Models for text classification.
+2. High Accuracy: Achieves 99.84% with BERT in detecting SQL Injection.
+3. Detection Method: Identifies SQL Injection attempts from web server logs.
+4. Flexible Implementation: Compatible with Apache Web Server and tested with Damn Vulnerable Web Application (DVWA).
+5. Public Dataset: Trained using a public dataset from Kaggle, containing a mix of normal and SQL Injection web requests.
