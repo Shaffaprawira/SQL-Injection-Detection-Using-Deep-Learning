@@ -4,7 +4,7 @@
 
 This repository contains the implementation of a text classification model using the BERT Language Model to detect SQL Injection attacks on Apache Web Server. The project aims to improve security by detecting malicious SQL queries and enhancing log file analysis. The models were trained and tested using a publicly available dataset from Kaggle, achieving high accuracy, precision, recall, and F1-score.
 
-dataset: [text](https://www.kaggle.com/datasets/sajid576/sql-injection-dataset)
+dataset: [SQL injection dataset](https://www.kaggle.com/datasets/sajid576/sql-injection-dataset)
 
 ## Key Features
 
